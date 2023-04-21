@@ -181,7 +181,7 @@ class Encoder(object):
         return res + additional_length_bytes
 
     _python_type_id = {
-        float: 15,
+        float: 3,
         bool: 14,
         list: 11,
         dict: 7,
