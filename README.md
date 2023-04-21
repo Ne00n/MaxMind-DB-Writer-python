@@ -5,7 +5,7 @@ Make `mmdb` format ip library file which can be read by [`maxmind` official lang
 [The official perl writer](https://github.com/maxmind/MaxMind-DB-Writer-perl) was written in perl, which was difficult to customize. So I implemented the `MaxmindDB format` ip library in python language
 ## Install
 ```shell script
-pip install -U git+https://github.com/VimT/MaxMind-DB-Writer-python
+pip install -U git+https://github.com/Ne00n/MaxMind-DB-Writer-python
 ```
 
 ## Usage
